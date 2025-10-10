@@ -1,0 +1,17 @@
+@font-face {
+	font-family: 'Nebula Sans Book';
+	src: url(../../assets/fonts/Nebula%20Sans%20Book-82dfbdfb8db0d2e86e9081ba4579f924.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans%20Book-992f832eb74efb962d372064db77df02.woff) format('woff');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nebula Sans Book';
+	src: url(../../assets/fonts/Nebula%20Sans%20Book-88dcce227ede86afe673ecead373defb.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans%20Book-3b8312664a2d4c23166a1629dfa98097.woff) format('woff');
+	font-weight: normal;
+	font-style: italic;
+	font-display: swap;
+}

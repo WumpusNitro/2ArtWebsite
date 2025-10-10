@@ -1,0 +1,89 @@
+@font-face {
+	font-family: 'Nebula Sans';
+	src: url(../../assets/fonts/Nebula%20Sans-c90c57576f89f8a2fa424463cdc2e60b.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans-c918d683e955be077339b3a82231b4e3.woff) format('woff');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nebula Sans';
+	src: url(../../assets/fonts/Nebula%20Sans-b59d43e585ff008c2edaf1e4e860f602.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans-d501dc080a5c10d089a04d5265cd9230.woff) format('woff');
+	font-weight: 300;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nebula Sans';
+	src: url(../../assets/fonts/Nebula%20Sans-0d0aeb357495752a24a5a63434fbd5ee.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans-5a1bd9a16ac814e17b1dc955964d4bc9.woff) format('woff');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nebula Sans';
+	src: url(../../assets/fonts/Nebula%20Sans-cb1833cda412b19818dd78036e20e805.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans-9b35b0a11563f8cc0f9aa7951128767a.woff) format('woff');
+	font-weight: 500;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nebula Sans';
+	src: url(../../assets/fonts/Nebula%20Sans-439029e76098781307ecdfb88a8cd8fe.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans-581e9263d5def8da3d3fe4b13a728e81.woff) format('woff');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nebula Sans';
+	src: url(../../assets/fonts/Nebula%20Sans-da2b509077af032461debbca43fbffa0.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans-ff17e878b0c7af1aa752dd22956852d9.woff) format('woff');
+	font-weight: 600;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nebula Sans';
+	src: url(../../assets/fonts/Nebula%20Sans-068602b88dd034b6a6862b1bb6b8a116.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans-85e1579d5ba4dd31888d44ae5e135843.woff) format('woff');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nebula Sans';
+	src: url(../../assets/fonts/Nebula%20Sans-eec26524e6ced7d8d4974966b611e05f.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans-fb622d2cb6f6de5da235328b7ec3bf43.woff) format('woff');
+	font-weight: bold;
+	font-style: italic;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nebula Sans';
+	src: url(../../assets/fonts/Nebula%20Sans-5d1c79328627784c8e9b6e4321bbc615.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans-e7b3237454040291e75182621f692b14.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Nebula Sans';
+	src: url(../../assets/fonts/Nebula%20Sans-17ce79e447f5ea5ffe25d7d5e4a366f3.woff2) format('woff2'),
+	url(../../assets/fonts/Nebula%20Sans-2134e768b7a49137d311f48bf0708720.woff) format('woff');
+	font-weight: 900;
+	font-style: italic;
+	font-display: swap;
+}

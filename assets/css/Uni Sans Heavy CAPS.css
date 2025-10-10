@@ -1,0 +1,8 @@
+@font-face {
+	font-family: 'Uni Sans Heavy CAPS';
+	src: url(../../assets/fonts/Uni%20Sans%20Heavy%20CAPS-4c370679c9a29de5c9ef8ac36588638d.woff2) format('woff2'),
+	url(../../assets/fonts/Uni%20Sans%20Heavy%20CAPS-480f6b63701d6d0013362e48afe77ab2.woff) format('woff');
+	font-weight: 900;
+	font-style: normal;
+	font-display: swap;
+}

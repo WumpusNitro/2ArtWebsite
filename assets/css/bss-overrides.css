@@ -1,0 +1,220 @@
+:root, [data-bs-theme=light] {
+  --bs-body-color: #ffffff;
+  --bs-body-color-rgb: 255,255,255;
+  --bs-body-bg: rgb(171,171,171);
+  --bs-body-bg-rgb: 171,171,171;
+  --bs-secondary-color: rgba(255,255,255,0.75);
+  --bs-secondary-color-rgb: 255,255,255,0.75;
+  --bs-tertiary-color: rgba(255,255,255,0.5);
+  --bs-tertiary-color-rgb: 255,255,255,0.5;
+  --bs-link-decoration: none;
+}
+
+a {
+  text-decoration: var(--bs-link-decoration);
+  text-decoration: var(--bs-link-decoration);
+}
+
+[data-bs-theme=dark] {
+  --bs-primary: #3c2d55;
+  --bs-primary-rgb: 60,45,85;
+  --bs-primary-text-emphasis: #8A8199;
+  --bs-primary-bg-subtle: #0C0911;
+  --bs-primary-border-subtle: #241B33;
+  --bs-dark: #212529;
+  --bs-dark-rgb: 33,37,41;
+  --bs-dark-text-emphasis: #7A7C7F;
+  --bs-dark-bg-subtle: #070708;
+  --bs-dark-border-subtle: #141619;
+  --bs-body-bg: rgb(23,23,24);
+  --bs-body-bg-rgb: 23,23,24;
+  --bs-link-decoration: none;
+}
+
+[data-bs-theme=dark] .btn-primary, .btn-primary[data-bs-theme=dark] {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #3c2d55;
+  --bs-btn-border-color: #3c2d55;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #332648;
+  --bs-btn-hover-border-color: #302444;
+  --bs-btn-focus-shadow-rgb: 226,224,230;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #302444;
+  --bs-btn-active-border-color: #2D2240;
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #3c2d55;
+  --bs-btn-disabled-border-color: #3c2d55;
+}
+
+[data-bs-theme=dark] .btn-outline-primary, .btn-outline-primary[data-bs-theme=dark] {
+  --bs-btn-color: #3c2d55;
+  --bs-btn-border-color: #3c2d55;
+  --bs-btn-focus-shadow-rgb: 60,45,85;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #3c2d55;
+  --bs-btn-hover-border-color: #3c2d55;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #3c2d55;
+  --bs-btn-active-border-color: #3c2d55;
+  --bs-btn-disabled-color: #3c2d55;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #3c2d55;
+}
+
+[data-bs-theme=dark] .btn-dark, .btn-dark[data-bs-theme=dark] {
+  --bs-btn-color: #fff;
+  --bs-btn-bg: #212529;
+  --bs-btn-border-color: #212529;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #1C1F23;
+  --bs-btn-hover-border-color: #1A1E21;
+  --bs-btn-focus-shadow-rgb: 222,222,223;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #1A1E21;
+  --bs-btn-active-border-color: #191C1F;
+  --bs-btn-disabled-color: #fff;
+  --bs-btn-disabled-bg: #212529;
+  --bs-btn-disabled-border-color: #212529;
+}
+
+[data-bs-theme=dark] .btn-outline-dark, .btn-outline-dark[data-bs-theme=dark] {
+  --bs-btn-color: #212529;
+  --bs-btn-border-color: #212529;
+  --bs-btn-focus-shadow-rgb: 33,37,41;
+  --bs-btn-hover-color: #fff;
+  --bs-btn-hover-bg: #212529;
+  --bs-btn-hover-border-color: #212529;
+  --bs-btn-active-color: #fff;
+  --bs-btn-active-bg: #212529;
+  --bs-btn-active-border-color: #212529;
+  --bs-btn-disabled-color: #212529;
+  --bs-btn-disabled-bg: transparent;
+  --bs-btn-disabled-border-color: #212529;
+}
+
+.mx-auto {
+  margin-right: auto!important;
+  margin-left: auto!important;
+}
+
+.mt-0 {
+  margin-top: 0!important;
+}
+
+.mt-1 {
+  margin-top: .25rem!important;
+}
+
+.mt-2 {
+  margin-top: .5rem!important;
+}
+
+.mt-3 {
+  margin-top: 1rem!important;
+}
+
+.mt-4 {
+  margin-top: 1.5rem!important;
+}
+
+.mt-5 {
+  margin-top: 3rem!important;
+}
+
+.mt-10 {
+  margin-top: 10.5rem !important;
+}
+
+.me-0 {
+  margin-right: 0!important;
+}
+
+.me-1 {
+  margin-right: .25rem!important;
+}
+
+.me-2 {
+  margin-right: .5rem!important;
+}
+
+.me-3 {
+  margin-right: 1rem!important;
+}
+
+.me-4 {
+  margin-right: 1.5rem!important;
+}
+
+.me-5 {
+  margin-right: 3rem!important;
+}
+
+.me-7 {
+  margin-right: 6rem !important;
+}
+
+.me-10 {
+  margin-right: 10.5rem !important;
+}
+
+.mb-0 {
+  margin-bottom: 0!important;
+}
+
+.mb-1 {
+  margin-bottom: .25rem!important;
+}
+
+.mb-2 {
+  margin-bottom: .5rem!important;
+}
+
+.mb-3 {
+  margin-bottom: 1rem!important;
+}
+
+.mb-4 {
+  margin-bottom: 1.5rem!important;
+}
+
+.mb-5 {
+  margin-bottom: 3rem!important;
+}
+
+.mb-8 {
+  margin-bottom: 7.5rem !important;
+}
+
+.ms-0 {
+  margin-left: 0!important;
+}
+
+.ms-4 {
+  margin-left: 1.5rem!important;
+}
+
+.ms-5 {
+  margin-left: 3rem!important;
+}
+
+.ms-6 {
+  margin-left: 4.5rem !important;
+}
+
+.ms-7 {
+  margin-left: 6rem !important;
+}
+
+@media (min-width:992px) {
+  .mt-lg-0 {
+    margin-top: 0!important;
+  }
+}
+
+@media (min-width:992px) {
+  .mb-lg-1 {
+    margin-bottom: .25rem!important;
+  }
+}
+
