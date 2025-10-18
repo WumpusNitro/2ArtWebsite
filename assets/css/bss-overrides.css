@@ -150,12 +150,20 @@ a {
   margin-right: 3rem!important;
 }
 
+.me-7 {
+  margin-right: 6rem !important;
+}
+
 .me-10 {
   margin-right: 10.5rem !important;
 }
 
 .mb-0 {
   margin-bottom: 0!important;
+}
+
+.mb-1 {
+  margin-bottom: .25rem!important;
 }
 
 .mb-2 {
@@ -192,6 +200,10 @@ a {
 
 .ms-6 {
   margin-left: 4.5rem !important;
+}
+
+.ms-7 {
+  margin-left: 6rem !important;
 }
 
 @media (min-width:992px) {
